@@ -2,4 +2,4 @@ Trata-se de uma aplicação que lê as linhas de um arquivo txt, separando as in
 
 A média de notas armazenada é calculada e imprimida.
 
-Em seguida, são apresentados os alunos que possuem a nota acima da média da classe.
+Em seguida, são apresentados os alunos que possuem nota acima da média da classe.
